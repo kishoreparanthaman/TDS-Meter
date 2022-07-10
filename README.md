@@ -29,7 +29,8 @@ R   = resistance
 K‘  = cell constant
 EC = electrical conductivity
 
-
+## Live Demostration Video Recorded on Online Lecture Class
+https://drive.google.com/file/d/1Gv-2iRdjgB_P-Z2OyccLk-SxrKtW_jSG/view?usp=sharing
 
 ## Authors
 - [@Charan](https://github.com/Charan0502)
